@@ -32,10 +32,10 @@ Collection of Sequence Construct Programs
     Sequence #8: Write a code that will input for the length and width of a rectangle, 
     compute and display the area and the perimeter of a rectangle.
 
-#### Circles Area & Circumference
+#### Circles Area & Circumference Program
     Sequence #9: Write a code that will input for the diameter of a circle, 
     compute and display the area and circumference of a circle.
 
-#### Triangles Area & Perimeter
+#### Triangles Area & Perimeter Program
     Sequence #10: Write a code that will input for the base, height and sides of a triangle, 
     compute and display the area and perimeter of a triangle.
